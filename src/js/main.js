@@ -72,6 +72,7 @@ var draw = (function() {
         x2=x;
         y2=y;
       },
+    
   
       //Sets the shape to be drawn
       setShape: function(shp) {
